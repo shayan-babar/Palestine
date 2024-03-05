@@ -33,3 +33,22 @@
         margin: 50px;
         font-size: 10px;
     }
+    
+    /* Urdu-End */
+
+    /* Images*/
+
+    .section-one img{
+        height: 500px;
+     width: 100%;
+    }
+    .section-two img{
+        height: 400px;
+        width: 100%;
+    }
+    .section-third img{
+        height: 400px;
+        width: 100%;
+    }
+
+}
