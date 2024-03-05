@@ -1,0 +1,35 @@
+@media(max-width:650px) {
+    .Enlish-heading {
+        font-weight: 800;
+        font-size: 16px;
+        text-decoration: underline;
+        display: flex;
+        margin: 50px;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .Enlish-parah {
+        text-align: center;
+        margin: 50px;
+        font-size: 12px;
+    }
+
+    /* Urdu */
+    .urdu-section-heading {
+        display: flex;
+        justify-content: center;
+        font-family: "Noto Nastaliq Urdu";
+        text-decoration: underline;
+        font-weight: 900;
+        font-size: 14px;
+        margin: 50px;
+        text-align: right;
+    }
+
+    .urdu-section-parah {
+        font-family: "Noto Nastaliq Urdu";
+        text-align: right;
+        margin: 50px;
+        font-size: 10px;
+    }
